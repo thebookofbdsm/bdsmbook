@@ -9,15 +9,17 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: 'sm小说',  items: [
-        { text: '债务下的沉沦游戏', link: '/book/债务下的沉沦游戏/第1章：投资失败，债务危机' },
-        { text: '贵妇的沉沦', link: '/book/贵妇的沉沦/贵妇的沉沦' },
-        { text: '性奴隶服务公司', link: '/book/性奴隶服务公司/001_第一章' },
-        { text: '性奴隶王志平', link: '/book/性奴隶王志平/001_第一章' }
-      ]
-      },
+      // { text: 'sm小说',  items: [
+      //   { text: '债务下的沉沦游戏', link: '/book/债务下的沉沦游戏/第1章：投资失败，债务危机' },
+      //   { text: '贵妇的沉沦', link: '/book/贵妇的沉沦/贵妇的沉沦' },
+      //   { text: '性奴隶服务公司', link: '/book/性奴隶服务公司/001_第一章' },
+      //   { text: '性奴隶王志平', link: '/book/性奴隶王志平/001_第一章' }
+      // ]
+      // },
       { text: '绳缚视频',
         items: [
+          { text: 'GTJ-159-一字马', link: '/video/GTJ-159' },
+          { text: 'GTJ-159-1倒吊', link: '/video/GTJ-159-1' },
           { text: 'GTJ-166-竹杆吊缚', link: '/video/GTJ-166' },
           { text: 'MYB-015-后手缚吊', link: '/video/MYB-015' },
         ]
